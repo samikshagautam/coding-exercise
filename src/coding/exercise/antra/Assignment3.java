@@ -1,4 +1,4 @@
-package educative.linkedlist.antra;
+package coding.exercise.antra;
 
 import java.util.*;
 

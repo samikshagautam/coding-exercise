@@ -1,4 +1,4 @@
-package educative.linkedlist;
+package coding.exercise;
 
 public class LinkedListDesign {
     private Node head;

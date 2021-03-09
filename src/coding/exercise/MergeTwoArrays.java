@@ -1,4 +1,4 @@
-package educative.linkedlist;
+package coding.exercise;
 
 import java.util.Arrays;
 

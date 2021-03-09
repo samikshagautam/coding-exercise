@@ -1,4 +1,4 @@
-package educative.linkedlist.countfiles;
+package coding.exercise.countfiles;
 
 import java.io.File;
 

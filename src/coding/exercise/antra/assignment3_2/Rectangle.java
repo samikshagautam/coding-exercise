@@ -1,4 +1,4 @@
-package educative.linkedlist.antra.assignment3_2;
+package coding.exercise.antra.assignment3_2;
 
 public class Rectangle implements Shape {
     private double length;
