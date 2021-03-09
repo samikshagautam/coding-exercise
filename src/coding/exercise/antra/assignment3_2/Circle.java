@@ -9,6 +9,6 @@ public class Circle implements Shape {
 
     @Override
     public double calArea() {
-        return 4 * 3.14 * radius;
+        return  3.14 * radius * radius;
     }
 }
